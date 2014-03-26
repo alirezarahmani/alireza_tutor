@@ -1,6 +1,6 @@
 alireza_tutor
 =============
 
-##Cakphp Vesrion Comparison 
+##Cakephp Article! 
 
-here you can download codes of my tutorial in Sitepoint and enjoy!
+Here you can download codes of my tutorial in Sitepoint and enjoy!
